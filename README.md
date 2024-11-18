@@ -1,4 +1,1 @@
-Front end SPA emulating a spritzy drink menu
-●	Used Javascript, HTMl and CSS to build application from the ground up
-●	Manipulated the DOM to add dynamism when displaying drink/ingredients
-●	Fetched JSON data from external API
+Front end SPA emulating a spritzy drink menu. Javascript, HTML, and CSS was used to build application from the ground up. The DOM is manipulated to add dynamism when displaying drink/ingredients. JSON data is fetched from an external API.
